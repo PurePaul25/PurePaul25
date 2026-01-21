@@ -79,7 +79,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PurePaul25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PurePaul25&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurePaul25&layout=donut&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
 </div>
 
 ---
