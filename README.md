@@ -47,23 +47,23 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="left" width="400px">
+      <td align="center" width="400px">
         <h3>🎨 Frontend Development</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=3" alt="Frontend" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&perline=3" alt="Frontend" />
       </td>
-      <td align="left" width="400px">
+      <td align="center" width="400px">
         <h3>⚙️ Backend & Database</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase,supabase&perline=3" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase,mongodb,supabase&perline=3" alt="Backend" />
       </td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
         <h3>🛠 Tools & Environment</h3>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman&perline=3" alt="Tools" />
       </td>
-      <td align="left">
+      <td align="center">
         <h3>🧠 Currently Learning</h3>
-        <img src="https://skillicons.dev/icons?i=nextjs,mongodb,aws" alt="Learning" />
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&perline=3" alt="Learning" />
       </td>
     </tr>
   </table>
