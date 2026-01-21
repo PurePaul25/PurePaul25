@@ -63,7 +63,7 @@
       </td>
       <td align="center">
         <h3>🧠 Currently Learning</h3>
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&perline=3" alt="Learning" />
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,supabase&perline=3" alt="Learning" />
       </td>
     </tr>
   </table>
@@ -78,8 +78,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purepaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purepaul&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PurePaul25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PurePaul25&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
