@@ -34,7 +34,7 @@
         </ul>
       </td>
       <td valign="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purepaul&layout=donut&theme=tokyonight&hide_border=true&hide_title=true" height="150" alt="Top Langs"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurePaul25&layout=donut&theme=tokyonight&hide_border=true&hide_title=true" height="150" alt="Top Langs"/>
       </td>
     </tr>
   </table>
@@ -42,18 +42,39 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,express,postgres,firebase,git,github,linux,docker,vscode&perline=7" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="left" width="400px">
+        <h3>🎨 Frontend Development</h3>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=3" alt="Frontend" />
+      </td>
+      <td align="left" width="400px">
+        <h3>⚙️ Backend & Database</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase,supabase&perline=3" alt="Backend" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <h3>🛠 Tools & Environment</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman&perline=3" alt="Tools" />
+      </td>
+      <td align="left">
+        <h3>🧠 Currently Learning</h3>
+        <img src="https://skillicons.dev/icons?i=nextjs,mongodb,aws" alt="Learning" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📈 GitHub Activity (The Cool Part)
 
 <p align="center">
-  <img src="https://github.com/purepaul/purepaul/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/PurePaul25/PurePaul25/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <div align="center">
@@ -72,13 +93,13 @@
   <a href="https://linkedin.com/in/yourlink">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:phatlenguyenthanh4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=purepaul&style=flat&color=38BDF8" />
+  <img src="https://komarev.com/ghpvc/?username=PurePaul25&style=flat&color=38BDF8" />
 </p>
 
 <p align="center">
