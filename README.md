@@ -86,7 +86,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[www.linkedin.com/in/phát-lê-51a07b3b4](https://www.linkedin.com/in/ph%C3%A1t-l%C3%AA-51a07b3b4)">
+  <a href="[[www.linkedin.com/in/phát-lê-51a07b3b4](https://www.linkedin.com/in/ph%C3%A1t-l%C3%AA-51a07b3b4)](https://www.linkedin.com/in/ph%C3%A1t-l%C3%AA-51a07b3b4/)">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:phatlenguyenthanh4@gmail.com">
