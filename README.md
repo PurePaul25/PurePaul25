@@ -27,10 +27,10 @@
     <tr>
       <td valign="center">
         <ul>
-           <li>🌱 Focusing on <b>JavaScript, React & Backend</b></li>
-           <li>🧩 Love decoding <b>how systems really work</b></li>
-           <li>🔨 Motto: <b>Build real things > Watch tutorials</b></li>
-           <li>🎯 Goal: <b>Solid Full-stack Developer</b></li>
+            <li>🌱 Focusing on <b>JavaScript, React & Backend</b></li>
+            <li>🧩 Love decoding <b>how systems really work</b></li>
+            <li>🔨 Motto: <b>Build real things > Watch tutorials</b></li>
+            <li>🎯 Goal: <b>Solid Full-stack Developer</b></li>
         </ul>
       </td>
       <td valign="center">
@@ -74,12 +74,11 @@
 ## 📈 GitHub Activity (The Cool Part)
 
 <p align="center">
-  <img src="https://github.com/PurePaul25/PurePaul25/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/PurePaul25/PurePaul25/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PurePaul25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurePaul25&layout=donut&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PurePaul25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
 </div>
 
 ---
@@ -87,10 +86,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/yourlink">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourlink">
+  <a href="www.linkedin.com/in/phát-lê-51a07b3b4">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:phatlenguyenthanh4@gmail.com">
